@@ -1,0 +1,15 @@
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\bin\Debug\netcoreapp3.1\RandomShapes.exe
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\bin\Debug\netcoreapp3.1\RandomShapes.deps.json
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\bin\Debug\netcoreapp3.1\RandomShapes.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\bin\Debug\netcoreapp3.1\RandomShapes.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\bin\Debug\netcoreapp3.1\RandomShapes.dll
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\bin\Debug\netcoreapp3.1\RandomShapes.pdb
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.Form1.resources
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.csproj.GenerateResource.cache
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.dll
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.pdb
+C:\Users\3zAl7arbi\source\repos\RandomShapes\RandomShapes\obj\Debug\netcoreapp3.1\RandomShapes.genruntimeconfig.cache
